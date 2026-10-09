@@ -10,7 +10,21 @@ academic_year: "2026–27"
 tags: [game-concept, game-design, narrative-design, ludology, stage-4]
 ---
 
-# Ten Commandments of Concept Development
+# Game Concept Development
+
+Every year, first drafts of game concepts fail in the same **three** ways:
+
+- The theme sits on top of a standard mechanic instead of shaping it.
+- The concept plays it safe: single-player, keyboard and mouse, a familiar genre template.
+- The player character is a costume, with no wants, limits or history.
+
+None of these is a lack of talent. Each one comes from answering the parts of a concept separately. You pick a theme, then a mechanic, then a platform, then a character, and each gets a surface answer because nothing forces them to depend on each other.
+
+This note gives you four tools that force those connections. You will use all of them in the paired lab, and the results feed directly into your individual concept questionnaire, which the supervision panel reviews in Week 3.
+
+If you have written a game design document before, the ideas are familiar. The difference here is that every answer must be tested against the others.
+
+## Ten Commandments of Concept Development
 
 1. The theme lives in the rules, not the paint.
 2. Name the verb before you build the world.
@@ -22,22 +36,6 @@ tags: [game-concept, game-design, narrative-design, ludology, stage-4]
 8. A limit says more than an ability.
 9. The mechanic is the pressure that reveals the character.
 10. Tell the story through the world, not around it.
-
----
-
-# Introduction
-
-Every year, first drafts of game concepts fail in the same three ways:
-
-- The theme sits on top of a standard mechanic instead of shaping it.
-- The concept plays it safe: single-player, keyboard and mouse, a familiar genre template.
-- The player character is a costume, with no wants, limits or history.
-
-None of these is a lack of talent. Each one comes from answering the parts of a concept separately. You pick a theme, then a mechanic, then a platform, then a character, and each gets a surface answer because nothing forces them to depend on each other.
-
-This note gives you four tools that force those connections. You will use all of them in the paired lab, and the results feed directly into your individual concept questionnaire, which the supervision panel reviews in Week 3.
-
-If you have written a game design document before, the ideas are familiar. The difference here is that every answer must be tested against the others.
 
 ---
 
